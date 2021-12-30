@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo(a) ao meu perfil, eu sou o Mateus Paulo.😉
 
 - 🔭 Ainda não trabalho na área.
-- 🌱 Estudando Python.
-- 📕 Pretendo aprender JavaScript futuramente.
+- 🌱 Estudando Python, HTML5, CSS3 e Js.
+- 📕 Pretendo aprender JavaScript após aprender HTML5 e CSS3.
 
 <div align="left">
   <a href="https://github.com/mateusdev7">
