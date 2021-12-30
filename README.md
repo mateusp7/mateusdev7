@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu perfil, eu sou o Mateus Paulo.😉
 
-- 🔭 <p>Ainda não trabalho na área.</p>
+- 🔭 Ainda não trabalho na área.
 - 🌱 Estudando Python.
 - 📕 Pretendo aprender JavaScript futuramente.
 
