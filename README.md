@@ -1,10 +1,9 @@
 ### Olá, seja bem-vindo(a) ao meu perfil, eu sou o Mateus Paulo.😉
 
 - 🔭 Ainda não trabalho na área.
-- 🌱 Estudando Python, HTML5, CSS3 e Js.
-- 📕 Pretendo aprender JavaScript após aprender HTML5 e CSS3.
+- 📕 Conhecimentos em HTML, CSS e UI Design com a utilização do Figma. E ainda em desenvolvimento no JavaScript
 
-<div align="left">
+<div style="display: inline_block">
   <a href="https://github.com/mateusdev7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdev7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdev7&layout=compact&langs_count=7&theme=onedark"/>
