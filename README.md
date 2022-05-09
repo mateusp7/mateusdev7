@@ -1,7 +1,8 @@
 ### Olá, seja bem-vindo(a) ao meu perfil, eu sou o Mateus Paulo.😉
 
 - 🔭 Ainda não trabalho na área.
-- 📕 Conhecimentos em HTML, CSS e UI Design com a utilização do Figma. E ainda em desenvolvimento no JavaScript
+- 📕 Conhecimentos em PHTML, CSS e UI Design com a utilização do Figma. E ainda em desenvolvimento no JavaScript
+- 📕 Conhecimento básicos em Python e Java.
 
 <div style="display: inline_block">
   <a href="https://github.com/mateusdev7">
@@ -11,6 +12,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Mateus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Mateus-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
