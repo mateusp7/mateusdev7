@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo(a) ao meu perfil, eu sou o Mateus Paulo.😉
 
-- 🔭 Ainda não trabalho na área.
+- 🔭 Procurando pela primeira oportunidade de estágio
 - 📕 Conhecimentos em PHTML, CSS e UI Design com a utilização do Figma. E ainda em desenvolvimento no JavaScript
-- 📕 Conhecimento básicos em Python e Java.
+- 🧠 Conhecimentos básicos em Python e Java.
 
 <div style="display: inline_block">
   <a href="https://github.com/mateusdev7">
