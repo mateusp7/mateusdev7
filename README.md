@@ -11,6 +11,8 @@
 - 🥇 Flexbox (Origamid) <br>
 - 🥇 Grid (Origamid) <br>
 
+<h1>Estudando</h1>
+- 🧠 React / NextJs
 
 <h1>Overview</h1>
 <div style="display: inline_block;">
